@@ -1,7 +1,7 @@
 {
-	"require": {
+    "require": {
     	"php": "^7.2.0"
-  	}
+   },
     "name": "moodle/moodle",
     "license": "GPL-3.0-or-later",
     "description": "Moodle - the world's open source learning platform",
